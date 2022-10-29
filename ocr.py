@@ -73,3 +73,5 @@ for i in range(0, len(text)):
 
 print("Done.")
 print("Github: @dumpydev\nTelegram: @flandolf")
+input("Press enter to exit.")
+exit(0)
